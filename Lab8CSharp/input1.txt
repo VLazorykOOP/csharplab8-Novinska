@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This is a simple text for testing the function.
+To be or not to be, that is the question.

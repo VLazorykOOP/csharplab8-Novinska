@@ -1,0 +1,9 @@
+Hello, this is a meaningful line with coordinates 48.8588443, 2.2943506.
+Another meaningful line without coordinates.
+This line has to be replaced.
+Random text to demonstrate functionality.
+Example line with coordinates: 34.052235, -118.243683.
+Not meaningful: ......
+Replace this text to see the effect.
+Coordinates again: 40.712776, -74.005974.
+Some other text to test replacements.
